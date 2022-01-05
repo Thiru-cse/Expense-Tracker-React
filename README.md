@@ -1,5 +1,15 @@
-# Getting Started with Create React App
+# In This Project
 
+- Components
+- JSX & Custom Component
+- Styling CSS
+- Dynamic Data
+- Working with Expression
+- Passing data via props
+- Concept of Composition(children props)
+
+
+# Getting Started with Create React App
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
