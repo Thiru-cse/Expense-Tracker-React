@@ -7,6 +7,10 @@
 - Working with Expression
 - Passing data via props
 - Concept of Composition(children props-Card.js)
+- useState
+- Form(multiple state using)
+- Two-way Binding
+- Rendering List
 
 
 # Getting Started with Create React App
