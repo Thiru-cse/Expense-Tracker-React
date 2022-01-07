@@ -6,7 +6,7 @@
 - Dynamic Data
 - Working with Expression
 - Passing data via props
-- Concept of Composition(children props)
+- Concept of Composition(children props-Card.js)
 
 
 # Getting Started with Create React App
